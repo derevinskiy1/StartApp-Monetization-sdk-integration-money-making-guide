@@ -3,6 +3,7 @@ Startapp-SDK-Guide
 
 StartApp is a best monetization and distribution platform focusing on free applications and games for ios and android. As of today, it is available on Android and iOS only.
 
+
 Hi Developer
 I'm a huge fan of Startapp also myself.
 I've noticed that the majority of my installs come from outside the united states too - I average about at .054 cents an installs (over the last 50k installs).
